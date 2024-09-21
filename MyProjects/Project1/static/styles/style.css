@@ -189,6 +189,7 @@ label{
         flex:1;
         order :1;
         width:960px;
+        overflow:none;
     }
     div.ns ul{
         flex:1;
@@ -202,7 +203,7 @@ label{
     }
     #sau
     {
-        width:auto
+        width:auto;
 
     }
 }
