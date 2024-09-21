@@ -189,7 +189,7 @@ label{
         flex:1;
         order :1;
         width:960px;
-        overflow:none;
+        overflow:unset;
     }
     div.ns ul{
         flex:1;
