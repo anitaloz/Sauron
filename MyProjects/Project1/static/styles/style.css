@@ -154,7 +154,7 @@ label{
 #ex:hover {color:black}
 
 @media screen and (min-width: 800px) {
-    #main {
+    body {
     flex-direction: column;
     }
     nav ul li{
