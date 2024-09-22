@@ -31,9 +31,13 @@ div.ns table{
     width:100%;
     overflow:scroll;
 }
+#links{
+    flex:1;
+    order:1;
+}
 div.ns ul{
     flex:1;
-    order :1;
+    order :2;
 }
     
 nav{
