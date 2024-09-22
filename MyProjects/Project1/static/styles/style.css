@@ -25,7 +25,7 @@ div.ns{
     flex-direction: column;
     width:100%
 }
-div.ns table{
+div.ns div.table1{
     flex:1;
     order :0;
     width:100%;
@@ -183,13 +183,13 @@ label{
     div.ns{
         width:960px;
     }
-    div.ns table{
+    div.ns div.table_g{
         flex:1;
         order :1;
         width:960px;
         overflow:unset;
     }
-    div.ns ul{
+    div.ns div.links{
         flex:1;
         order :0;
     }
