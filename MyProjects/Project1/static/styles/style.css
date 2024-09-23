@@ -25,9 +25,12 @@ div.ns{
     flex-direction: column;
     width:100%
 }
-div.ns div.table1{
+div.ns div.table1_g{
     flex:1;
     order :0;
+}
+
+div.ns table{
     width:100%;
     overflow:scroll;
 }
@@ -183,10 +186,12 @@ label{
     div.ns{
         width:960px;
     }
-    div.ns div.table_g{
+    div.ns div.table1_g{
         flex:1;
         order :1;
         width:960px;
+    }
+    div.ns table{
         overflow:unset;
     }
     div.ns div.links{
