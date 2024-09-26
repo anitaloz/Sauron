@@ -210,6 +210,7 @@ tr.tb{
         flex:1;
         order :0;
     }
+    .first_t{margin:0 auto;}
     .lnks{order:1;}
     .t1{order:2}
     /* div.ns h1{
