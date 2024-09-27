@@ -25,6 +25,7 @@ nav{
 nav ul li{
     float:none;
     background-color: #b33803;
+    border-top-right-radius: 8px;
     border-bottom-left-radius: 8px;
     border-bottom-right-radius: 8px;
     list-style: none;
@@ -73,7 +74,7 @@ img{
     border-color: black;
     background-color: black;
 }
-
+div.t1{padding:0;}
 table.t{
     overflow:scroll;
     margin:0 auto;
@@ -127,6 +128,7 @@ tr.tb{
         background-color: #b33803;
         border-bottom-left-radius: 10px;
         border-bottom-right-radius: 10px;
+        border-top-right-radius: 0;
         list-style: none;
         
         
