@@ -116,12 +116,7 @@ tr.tb{
 #ex:hover {color:black}
 
 @media screen and (min-width: 800px) {
-    body {
-        display:flex;
-        flex-direction: column;
-    }
-
-    header{margin-bottom:10px;}
+    
 
     nav ul li{
         float:left;
@@ -158,16 +153,9 @@ tr.tb{
         overflow:auto;
     }
 
-    div.ns div.links{
-        flex:1;
-        order :0;
-    }
 
     p.first_t{margin:0 auto; font-size:20pt;}
 
-    .lnks{order:1;}
-
-    .t1{order:2}
 
     div.content{
     max-width: 90%;
